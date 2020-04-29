@@ -1,0 +1,7 @@
+repositories{
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    implementation 'com.qiniu:android-netdiag:0.1.1'
+}

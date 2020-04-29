@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-networktracer",
+  "version": "0.0.1",
+  "description": "plugin custom cordova network traccer ping, tracer, etc",
+  "cordova": {
+    "id": "cordova-plugin-networktracer",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "ISC"
+}
