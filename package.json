@@ -1,17 +1,25 @@
 {
   "name": "cordova-plugin-networktracer",
   "version": "0.0.1",
-  "description": "plugin custom cordova network traccer ping, tracer, etc",
+  "description": "plugin custom cordova network traccer ping, tracer",
   "cordova": {
     "id": "cordova-plugin-networktracer",
     "platforms": [
       "android"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nasasutisna/cordova-plugin-networktracer.git"
+  },
   "keywords": [
     "ecosystem:cordova",
     "cordova-android"
   ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nasasutisna/cordova-plugin-networktracer/issues"
+  },
+  "homepage": "https://github.com/nasasutisna/cordova-plugin-networktracer#readme"
 }
